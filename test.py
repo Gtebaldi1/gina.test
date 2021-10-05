@@ -5,3 +5,5 @@ Spyder Editor
 This is a temporary script file.this a test file by gina
 """
 
+import pandas as pd
+import seaborn as sns
